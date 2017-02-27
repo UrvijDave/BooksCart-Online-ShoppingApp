@@ -1,0 +1,16 @@
+com\BooksCart\model\Product.class
+com\BooksCart\model\User.class
+com\BooksCart\dao\ProductDAO.class
+com\BooksCart\dao\PublisherDAO.class
+com\BooksCart\model\Publisher.class
+com\BooksCart\controller\ProductController.class
+com\BooksCart\controller\UserController.class
+com\BooksCart\daoimpl\UserDAOImpl.class
+com\BooksCart\controller\HomeController.class
+com\BooksCart\controller\PublisherController.class
+com\BooksCart\admin\AdminControllerPublisher.class
+com\BooksCart\daoimpl\ProductDAOImpl.class
+com\BooksCart\dao\UserDAO.class
+com\BooksCart\admin\AdminControllerProduct.class
+com\BooksCart\daoimpl\PublisherDAOImpl.class
+com\BooksCart\admin\AdminControllerUser.class
